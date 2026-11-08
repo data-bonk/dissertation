@@ -1,4 +1,10 @@
+# venv
 .venv/
+
+# caches
 __pycache__/
 **/__pycache__/
 .ipynb_checkpoints/
+
+# ~229MB, GitHub blocks files over 100MB - Rebuild the file with: python run.py
+artefacts/wp3/random_forest.joblib
