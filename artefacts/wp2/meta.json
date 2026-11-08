@@ -1,0 +1,44 @@
+{
+  "n_rows": 59381,
+  "n_features": 134,
+  "train_rows": 47504,
+  "holdout_rows": 11877,
+  "response_counts": {
+    "1": 6207,
+    "2": 6552,
+    "3": 1013,
+    "4": 1428,
+    "5": 5432,
+    "6": 11233,
+    "7": 8027,
+    "8": 19489
+  },
+  "train_response_counts": {
+    "1": 4966,
+    "2": 5242,
+    "3": 810,
+    "4": 1142,
+    "5": 4346,
+    "6": 8986,
+    "7": 6421,
+    "8": 15591
+  },
+  "holdout_response_counts": {
+    "1": 1241,
+    "2": 1310,
+    "3": 203,
+    "4": 286,
+    "5": 1086,
+    "6": 2247,
+    "7": 1606,
+    "8": 3898
+  },
+  "dropped_columns": [
+    "Medical_History_10",
+    "Medical_History_32",
+    "Medical_History_24",
+    "Medical_History_15"
+  ],
+  "random_state": 42,
+  "test_size": 0.2
+}

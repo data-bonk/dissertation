@@ -1,0 +1,53 @@
+{
+  "cases": [
+    {
+      "label": "correct_high_risk",
+      "index": 366,
+      "Id": 53825,
+      "y_true": 8,
+      "y_pred": 8,
+      "p_high": 0.9897398948669434
+    },
+    {
+      "label": "correct_low_risk",
+      "index": 25,
+      "Id": 74347,
+      "y_true": 1,
+      "y_pred": 1,
+      "p_high": 0.0008685900247655809
+    },
+    {
+      "label": "misclassified_high_to_low",
+      "index": 10546,
+      "Id": 52233,
+      "y_true": 7,
+      "y_pred": 2,
+      "p_high": 0.65402752161026
+    },
+    {
+      "label": "misclassified_low_to_high",
+      "index": 3924,
+      "Id": 78960,
+      "y_true": 3,
+      "y_pred": 5,
+      "p_high": 0.2938953638076782
+    },
+    {
+      "label": "rare_class_3_or_4",
+      "index": 1074,
+      "Id": 47820,
+      "y_true": 4,
+      "y_pred": 4,
+      "p_high": 0.20811766386032104
+    },
+    {
+      "label": "typical_class_8",
+      "index": 5823,
+      "Id": 75307,
+      "y_true": 8,
+      "y_pred": 8,
+      "p_high": 0.9895637035369873
+    }
+  ],
+  "low_max": 4
+}

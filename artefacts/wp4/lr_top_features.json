@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "Wt",
+    "mean_abs_shap": 0.5822550370696334
+  },
+  {
+    "feature": "Medical_History_4",
+    "mean_abs_shap": 0.5537339219481112
+  },
+  {
+    "feature": "Insurance_History_5_was_missing",
+    "mean_abs_shap": 0.40630260678525165
+  },
+  {
+    "feature": "age_x_bmi",
+    "mean_abs_shap": 0.3680535915104679
+  },
+  {
+    "feature": "Ins_Age",
+    "mean_abs_shap": 0.3595564952634105
+  },
+  {
+    "feature": "Insurance_History_3",
+    "mean_abs_shap": 0.35563535357612214
+  },
+  {
+    "feature": "BMI",
+    "mean_abs_shap": 0.3458203705068311
+  },
+  {
+    "feature": "Ht",
+    "mean_abs_shap": 0.3094476142471671
+  },
+  {
+    "feature": "Medical_History_25",
+    "mean_abs_shap": 0.2705977653406137
+  },
+  {
+    "feature": "Medical_History_26",
+    "mean_abs_shap": 0.24443398313183018
+  },
+  {
+    "feature": "Medical_Keyword_3",
+    "mean_abs_shap": 0.22142622449217753
+  },
+  {
+    "feature": "Medical_Keyword_15",
+    "mean_abs_shap": 0.17878583798590642
+  },
+  {
+    "feature": "Medical_History_23",
+    "mean_abs_shap": 0.15474212393459247
+  },
+  {
+    "feature": "Product_Info_4",
+    "mean_abs_shap": 0.15354284897863188
+  },
+  {
+    "feature": "Insurance_History_1",
+    "mean_abs_shap": 0.1479592876016459
+  },
+  {
+    "feature": "Product_Info_2=D4",
+    "mean_abs_shap": 0.14587534590616463
+  },
+  {
+    "feature": "Insurance_History_9",
+    "mean_abs_shap": 0.13524487762203105
+  },
+  {
+    "feature": "Insurance_History_4",
+    "mean_abs_shap": 0.11056157992925478
+  },
+  {
+    "feature": "Product_Info_2=A7",
+    "mean_abs_shap": 0.10185059471610815
+  },
+  {
+    "feature": "InsuredInfo_6",
+    "mean_abs_shap": 0.10181588203457716
+  }
+]
